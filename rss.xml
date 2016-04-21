@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Sam Wolfand]]></title>
         <description><![CDATA[Sam Wolfand]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/samwolfand/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 22 Mar 2016 19:20:27 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 21 Apr 2016 04:54:39 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/samwolfand/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Good explanation of crypto stuffz]]></title>
+            <description><![CDATA[<p>This is dope https://www.youtube.com/watch?v=vgTtHV04xRI</p>]]></description>
+            <link>https://thegrid.ai/samwolfand/good-explanation-of-crypto-stuffz/index.html</link>
+            <guid isPermaLink="false">0820032a-dfaa-4047-b76c-3a0cc0c5a03b</guid>
+            <pubDate>Thu, 21 Apr 2016 04:54:38 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/41e3a9c7-0134-44aa-bae0-923f84e482d5.png">]]></description>
-            <link>undefinedf2a49ddb-6d40-43f3-bfb7-86228ed44596/index.html</link>
+            <link>https://thegrid.ai/samwolfand/f2a49ddb-6d40-43f3-bfb7-86228ed44596/index.html</link>
             <guid isPermaLink="false">f2a49ddb-6d40-43f3-bfb7-86228ed44596</guid>
             <pubDate>Tue, 22 Mar 2016 19:19:43 GMT</pubDate>
         </item>
